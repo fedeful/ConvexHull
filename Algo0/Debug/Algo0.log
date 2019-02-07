@@ -1,0 +1,8 @@
+﻿  Origine.cpp
+c:\users\ffulg\source\repos\algo0\algo0\origine.cpp(49): warning C4101: 'py': variabile locale senza riferimenti
+c:\users\ffulg\source\repos\algo0\algo0\origine.cpp(49): warning C4101: 'px': variabile locale senza riferimenti
+c:\users\ffulg\source\repos\algo0\algo0\origine.cpp(213): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\ffulg\source\repos\algo0\algo0\origine.cpp(233): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\ffulg\source\repos\algo0\algo0\origine.cpp(249): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\ffulg\source\repos\algo0\algo0\origine.cpp(252): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  Algo0.vcxproj -> C:\Users\ffulg\source\repos\Algo0\Debug\Algo0.exe
